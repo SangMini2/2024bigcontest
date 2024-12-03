@@ -1,4 +1,4 @@
-GOOGLE_API_KEY = "AIzaSyBtGalAvEa3-xMYt3_pVSkIA6COwOrc-ew"
+GOOGLE_API_KEY = ""
 
 START_COORDINATE_URL = 'https://naveropenapi.apigw.ntruss.com/map-geocode/v2/geocode?query={start}'
 END_COORDINATE_URL = 'https://naveropenapi.apigw.ntruss.com/map-geocode/v2/geocode?query={end}'

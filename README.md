@@ -1,6 +1,4 @@
 # 2024bigcontest
-생성형 AI분야(제주도 맛집 추천)
-
 ![image](https://github.com/user-attachments/assets/7812eda1-fbc8-4ade-bc00-bca6914e3380)
 
 ## 설명
@@ -11,11 +9,11 @@
 ## 데이터
 - 신한 카드 데이터(요식업종 가맹점)
 - 크롤링 데이터
-    - Naver Place의 정보
+    - Naver Place 정보
 
 ## 사용한 Tools
 - Gemini 1.5 flash
-- Naver Maps
+- Naver Maps API
     - Geocodings
     - Directions5
 - Streamlit
@@ -27,5 +25,5 @@
     - 메뉴
     - 사용자 리뷰
 
-
+## 시연 동영상
 정성 평가 시연 동영상: https://youtu.be/K6GdK2e5FTk
